@@ -6,4 +6,4 @@
 
 ***
 <a><a>
-[1.JavaScript Date and Time](https://www.google.com)
+[1.JavaScript Date and Time](https://github.com/brkyydnmz/JS-Apps/tree/main/1_js_date_time)
