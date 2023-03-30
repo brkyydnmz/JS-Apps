@@ -12,4 +12,4 @@
 [2. 📝 To-Do](https://github.com/brkyydnmz/JS-Apps/tree/main/2_js_todo_list)
 
 <a><a>
-[3. 🍜 Asian Kitchen's Menu](https://github.com/brkyydnmz/JS-Apps/tree/main/3_asian_kitchen's_menu)
+[3. 🍜 Asian Kitchen's Menu](https://github.com/brkyydnmz/JS-Apps/tree/main/3_asian_kitchen_menu)
